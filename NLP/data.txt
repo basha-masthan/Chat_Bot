@@ -1,0 +1,82 @@
+**Future Bound Tech - Company Profile & Activities**
+
+## 1. Company Overview
+Future Bound Tech is an IT services and software solutions company located in Nellore, Andhra Pradesh, India. The company specializes in delivering innovative and reliable technology solutions tailored to meet various business needs. With a strong commitment to excellence, Future Bound Tech provides cutting-edge solutions, ensuring business growth and digital transformation for its clients.
+
+## 2. Key Details
+- **Company Name:** Future Bound Tech
+- **Location:** Nellore, Andhra Pradesh, India
+- **Website:** [www.futurebound.tech](https://www.futurebound.tech/)
+- **Founder & CEO:** Masthan Basha
+- **Email Contacts:**  
+  - **Admin Email:** admin@futurebound.tech
+  - **Info Email:** info@futurebound.tech
+  - **CEO Email:** ceo@futurebound.tech
+- **Certification:** MSME certified
+
+## 3. Services Offered
+Future Bound Tech provides a range of IT solutions and software services, including:
+- **Software Development:** Custom web and mobile application development
+- **IT Consulting:** Strategic technology advisory services
+- **Lead Generation:** Researching and identifying potential business leads
+- **Graphic Design:** Creating posts, videos, and UI/UX design
+- **Social Media Marketing:** Promoting brands via digital channels
+- **Data Entry Services:** Website and start-up research for contact details
+- **Web Development:** Building and maintaining professional websites
+- **Cybersecurity Solutions:** Security services and penetration testing
+
+## 4. Hiring Activities
+Future Bound Tech is actively hiring for multiple roles, including:
+- **Content Writing:** Recruiting students from the 2025 batch
+- **Junior Social Media Marketing Executive**
+- **Junior Graphics Designer**
+- **Tele-Caller**
+- **Lead Generation Specialist**
+
+## 5. Business Strategy
+Future Bound Tech is planning to expand its client base by targeting newly launched businesses that do not have websites or applications. The company focuses on:
+- Researching startups in industrial, real estate, and small/micro-business sectors
+- Selling software products and digital solutions to businesses
+- Enhancing operations and marketing strategies for clients
+
+## 6. User’s Personal Development & Projects
+### **Technical Expertise:**
+The user, a B.Tech graduate in Computer Science and Engineering, has expertise in:
+- **Programming:** Python, Web Development, Linux, AWS, and Cybersecurity
+- **Development Frameworks:** Django (backend), React.js (frontend), Node.js
+- **UI/UX Design:** Basic proficiency in Figma
+- **Database Management:** MySQL and structured database design
+- **Cybersecurity Skills:** Completed "Python for Cybersecurity" from Infosec via Coursera
+- **Certificate:** Python Full Stack Developer
+
+### **Current Projects:**
+1. **EDU Pro:**
+   - Online learning platform for live and recorded classes
+   - Developed entirely using Django
+2. **Real-Time Chatbot (Internship Project at BlackBucks):**
+   - Provides information about internships (types, domains, fees, duration, mode)
+   - Assists job seekers in analyzing skills and matching job roles
+   - Engages with industrial clients to promote software solutions
+
+### **System & Development Setup:**
+- **Laptop:** Dual-boot system with Windows & Linux
+- **Specs:** AMD Ryzen 5 7000 series CPU, NVIDIA GeForce RTX 3050 6GB GPU
+- **Linux Optimization Efforts:** Investigating ways to reduce battery drain by optimizing GPU usage
+
+## 7. ChatGPT Platform Search & Learning Activity
+The user has leveraged ChatGPT for:
+- **Technical Learning:** Seeking explanations on Python, Django, React.js, Node.js, SQL, C
+- **Project Development:** Enhancing chatbot functionality, web development, and full-stack integration
+- **Linux Optimization:** Searching for battery-saving scripts and performance tweaks
+- **Business Strategies:** Exploring lead generation methods and client engagement models
+- **Hiring Strategies:** Gathering insights for recruiting and team building
+
+## 8. Future Plans
+- Expanding Future Bound Tech’s software solutions market
+- Enhancing chatbot capabilities for client interaction and automation
+- Improving personal expertise in web development, AI, and cybersecurity
+- Strengthening lead generation efforts to boost business sales
+
+---
+This document provides an in-depth overview of Future Bound Tech, its services, hiring plans, business strategies, and the user’s development journey. It also details the search activities and ongoing projects, ensuring comprehensive documentation of the company’s progress.
+
