@@ -1,0 +1,35 @@
+1st Phase: Company Information
+Company Name: Future Bound Tech
+Founded: 2023
+Founder: Shaik Masthan Basha
+Industry: Software Development
+Company Size: 51-200 employees
+Headquarters: SPSR Nellore, Andhra Pradesh
+Website: futurebound.tech
+Phone: 9951299524
+Mission: Delivering innovative, user-friendly software solutions.
+Vision: To be a global leader in software development.
+2nd Phase: Job Opportunities
+We hire skilled professionals based on expertise.
+
+Categories & Jobs:
+Frontend: HTML, CSS, JavaScript → Frontend Developer, Web Designer
+Backend: Python, Django, Node.js → Backend Developer, API Developer
+Full Stack: React, Django, MySQL → Full Stack Developer
+Cybersecurity: Kali Linux, Python → Security Analyst, Penetration Tester
+Database: SQL, MySQL → Database Administrator
+Marketing: Social Media, SEO → Digital Marketer
+Graphics: Photoshop, Illustrator → Graphic Designer
+3rd Phase: Client Services
+We provide tailored software solutions based on client needs.
+
+Services We Offer:
+Custom Software: Scalable, business-specific applications.
+Mobile Apps: iOS & Android development.
+Web Development: Websites & web apps with responsive designs.
+Project Management: Ensuring quality, budget, and timely delivery.
+IT Consulting: Strategic guidance for tech infrastructure.
+Support & Maintenance: Continuous software updates & fixes.
+Bot Output Example:
+🟢 User: "I need a business website."
+🟢 Bot: "We offer responsive web development tailored to your needs. Let's discuss your project!"
