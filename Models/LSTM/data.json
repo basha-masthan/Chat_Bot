@@ -1,0 +1,66 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening", "Good afternoon"],
+      "responses": ["Hello! How can I assist you today?", "Hi there! What do you need help with?", "Hey! How can I help?"]
+    },
+    {
+      "tag": "company_info",
+      "patterns": ["What is your company name?", "Tell me about your company", "company name", "Who are you?", "What does your company do?"],
+      "responses": ["Future Bound Tech is an IT services and software solutions company based in Nellore, Andhra Pradesh, India.", "We are Future Bound Tech, an IT solutions provider specializing in web development, software solutions, and digital services."]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where is your company located?", "Company location", "Office address", "Where are you based?", "Your office location?"],
+      "responses": ["Future Bound Tech is located in Nellore, Andhra Pradesh, India.", "Our office is in Nellore, Andhra Pradesh, India."]
+    },
+    {
+      "tag": "founder",
+      "patterns": ["Who is the founder?", "Who started this company?", "Founder name", "Who owns Future Bound Tech?"],
+      "responses": ["The founder and CEO of Future Bound Tech is Shaik Masthan Basha."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["How can I contact you?", "What is your email?", "Contact details", "Company email", "How do I reach you?"],
+      "responses": [
+        "You can contact us at:\n- Admin Email: admin@futurebound.tech\n- Info Email: info@futurebound.tech\n- CEO Email: ceo@futurebound.tech",
+        "Feel free to email us:\n- Admin: admin@futurebound.tech\n- Info: info@futurebound.tech\n- CEO: ceo@futurebound.tech"
+      ]
+    },
+    {
+      "tag": "certification",
+      "patterns": ["Are you certified?", "Do you have any certifications?", "Company certification", "Is Future Bound Tech certified?"],
+      "responses": ["Yes, Future Bound Tech is MSME certified.", "We are an MSME-certified company, ensuring quality and reliability in our services."]
+    },
+    {
+      "tag": "services",
+      "patterns": ["What services do you offer?", "Tell me about your services", "Company services", "What solutions do you provide?"],
+      "responses": [
+        "We offer various IT solutions, including:\n- Software Development\n- IT Consulting\n- Lead Generation\n- Graphic Design\n- Social Media Marketing\n- Data Entry Services\n- Web Development\n- Cybersecurity Solutions",
+        "Our services cover:\n✔ Software & Web Development\n✔ Digital Marketing\n✔ IT Consulting\n✔ Lead Generation\n✔ Cybersecurity"
+      ]
+    },
+    {
+      "tag": "job_openings",
+      "patterns": ["Are there any job openings?", "What are the current job vacancies?", "Hiring roles", "Jobs new", "Is your company hiring?"],
+      "responses": [
+        "Yes, we are hiring for the following roles:\n- Content Writer (2025 Batch Students)\n- Junior Social Media Marketing Executive\n- Junior Graphics Designer\n- Tele-Caller\n- Lead Generation Specialist",
+        "We currently have job openings for:\n✔ Content Writers\n✔ Social Media Marketers\n✔ Graphic Designers\n✔ Tele-Callers\n✔ Lead Generation Experts"
+      ]
+    },
+    {
+      "tag": "wishes",
+      "patterns": ["Good morning", "Good night", "Have a nice day", "Happy weekend", "Best wishes"],
+      "responses": ["Good morning! Hope you have a fantastic day ahead!", "Good night! Rest well.", "Wishing you a great day ahead!", "Happy weekend! Enjoy your time.", "Best wishes to you too!"]
+    },
+    {
+      "tag": "business_strategy",
+      "patterns": ["What is your business strategy?", "How do you find clients?", "Company expansion plan", "How do you get projects?"],
+      "responses": [
+        "We expand by targeting businesses that need digital solutions. Our strategy includes:\n✔ Researching startups\n✔ Offering software solutions\n✔ Improving business operations",
+        "Our business growth plan involves finding new clients through lead generation and offering them customized digital solutions."
+      ]
+    }
+  ]
+}

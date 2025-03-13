@@ -1,0 +1,87 @@
+{
+  "intents": [
+    {
+      "tag": "company_info",
+      "patterns": ["What is your company name?", "Tell me about your company", "company name"],
+      "responses": ["Future Bound Tech is an IT services and software solutions company based in Nellore, Andhra Pradesh, India."]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where is your company located?", "Company location", "Office address"],
+      "responses": ["Future Bound Tech is located in Nellore, Andhra Pradesh, India."]
+    },
+    {
+      "tag": "founder",
+      "patterns": ["Who is the founder?", "Who started this company?", "Founder name"],
+      "responses": ["The founder and CEO of Future Bound Tech is Shaik Masthan Basha."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["How can I contact you?", "What is your email?", "Contact details"],
+      "responses": [
+        "You can contact us at:\n- Admin Email: admin@futurebound.tech\n- Info Email: info@futurebound.tech\n- CEO Email: ceo@futurebound.tech"
+      ]
+    },
+    {
+      "tag": "certification",
+      "patterns": ["Are you certified?", "Do you have any certifications?", "Company certification"],
+      "responses": ["Yes, Future Bound Tech is MSME certified."]
+    },
+    {
+      "tag": "services",
+      "patterns": ["What services do you offer?", "Tell me about your services", "Company services"],
+      "responses": [
+        "We provide a range of IT solutions, including:\n- Software Development\n- IT Consulting\n- Lead Generation\n- Graphic Design\n- Social Media Marketing\n- Data Entry Services\n- Web Development\n- Cybersecurity Solutions"
+      ]
+    },
+    {
+      "tag": "job_openings",
+      "patterns": ["Are there any job openings?", "What are the current job vacancies?", "Hiring roles"],
+      "responses": [
+        "Yes, we are hiring for the following roles:\n- Content Writer (2025 Batch Students)\n- Junior Social Media Marketing Executive\n- Junior Graphics Designer\n- Tele-Caller\n- Lead Generation Specialist"
+      ]
+    },
+    {
+      "tag": "business_strategy",
+      "patterns": ["What is your business strategy?", "How do you find clients?", "Company expansion plan"],
+      "responses": [
+        "We focus on expanding by targeting newly launched businesses that need digital solutions. Our strategy includes:\n- Researching startups in industrial, real estate, and micro-business sectors\n- Offering software products and IT solutions\n- Enhancing business operations through digital transformation"
+      ]
+    },
+    {
+      "tag": "projects",
+      "patterns": ["What projects are you working on?", "Tell me about your recent projects"],
+      "responses": [
+        "Currently, we are working on:\n1. EDU Pro - An online learning platform for live and recorded classes, built using Django.\n2. Real-Time Chatbot - A chatbot assisting students with internship details and job seekers with career guidance."
+      ]
+    },
+    {
+      "tag": "tech_stack",
+      "patterns": ["What technologies do you use?", "Tech stack", "Company technology"],
+      "responses": [
+        "Our technology stack includes:\n- Backend: Django (Python)\n- Frontend: React.js\n- Database: MySQL\n- Cloud & DevOps: AWS\n- UI/UX: Figma\n- Cybersecurity: Kali Linux, Python for security testing"
+      ]
+    },
+    {
+      "tag": "system_info",
+      "patterns": ["What system do you use?", "Company hardware", "Development setup"],
+      "responses": [
+        "We use high-performance development setups, including:\n- Dual-boot system (Windows & Linux)\n- AMD Ryzen 5 7000 series CPU\n- NVIDIA GeForce RTX 3050 6GB GPU"
+      ]
+    },
+    {
+      "tag": "linux_optimization",
+      "patterns": ["How do you optimize Linux for battery life?", "Linux battery drain issue"],
+      "responses": [
+        "To optimize battery life on Linux, we focus on GPU power management and disabling unnecessary background processes."
+      ]
+    },
+    {
+      "tag": "future_plans",
+      "patterns": ["What are your future goals?", "Company's future plans"],
+      "responses": [
+        "Our future plans include:\n- Expanding our software solutions market\n- Enhancing chatbot capabilities for automation\n- Strengthening lead generation efforts\n- Improving expertise in AI, web development, and cybersecurity"
+      ]
+    }
+  ]
+}
